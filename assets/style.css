@@ -1,0 +1,94 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: lime;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    text-align: center;
+    max-width: 90%;
+  }
+  
+  h1 {
+    color: lime;
+    font-size: 24px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  
+  input {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    background-color: black;
+    color: lime;
+    border: 2px solid lime;
+    padding: 5px;
+    width: 90%;
+    max-width: 400px;
+    text-align: center;
+  }
+  
+  button {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    background-color: black;
+    color: lime;
+    border: 2px solid lime;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin-top: 20px;
+  }
+  
+  button:hover {
+    background-color: lime;
+    color: black;
+  }
+  
+  .mensagem {
+    margin-top: 20px;
+    font-size: 18px;
+    padding: 10px;
+    border: 2px solid lime;
+    width: 90%;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: pre-wrap;
+  }
+  
+  .sucesso {
+    color: lime;
+  }
+  
+  .erro {
+    color: red;
+  }
+  
+  
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 20px;
+    }
+    button {
+      font-size: 16px;
+      padding: 8px 15px;
+    }
+  }
+  
