@@ -1,5 +1,7 @@
 # Jogo-Qual-Numero-Maior-
-Descrição do Jogo: O usuário digita dois números (Número A e Número B) e tenta acertar a condição correta: Número B deve ser maior que Número A. O jogo exibe mensagens de vitória ou derrota de maneira divertida e interativa
+Descrição do Jogo: O usuário digita dois números (Número A e Número B) e tenta acertar a condição correta: Número B deve ser maior que Número A. O jogo exibe mensagens de vitória ou derrota de maneira divertida e interativa.
+
+Jogo faz parte de uma atividade para o curso de desenvolvedor FullStack Java da escola EBAC.
 
 # Jogo: Qual Número é Maior?
 
@@ -37,24 +39,21 @@ Além disso, o jogo possui:
 4. **Estilo Retro**:
    - Um visual inspirado no DOS, com cores em preto e verde, fonte monoespaçada e um layout minimalista.
 
-## 📂 Estrutura do Projeto
-
-```plaintext
-Jogo-Qual-Numero-Maior/
-├── index.html          # Arquivo principal do jogo
-├── assets/
-│   ├── style.css       # Estilos para o design retrô e responsividade
-│   └── script.js       # Lógica do jogo e animações
-
 🖥️ Como Executar o Projeto
 Link do vercel:
+https://jogo-qual-numero-maior.vercel.app/
 
 Jogue e se divirta!
 
 📱 Prévia do Layout
 Desktop
 
+![image](https://github.com/user-attachments/assets/242ea3ee-7f66-45b1-87e8-f7a954a3a8aa)
+
 Mobile
+
+![image](https://github.com/user-attachments/assets/c58d8ab7-a47b-4af6-9a1b-99b217bcbc55)
+
 
 📚 O que Aprendi?
 Manipulação do DOM em JavaScript.
@@ -67,3 +66,5 @@ Confira o repositório completo aqui: Jogo-Qual-Numero-Maior
 
 👨‍🎓 Sobre Mim
 Sou um estudante em busca de aperfeiçoar minhas habilidades em desenvolvimento web. Este projeto foi uma oportunidade de aplicar meus conhecimentos e explorar conceitos de design e interatividade. Espero que goste do resultado! 😊
+
+
